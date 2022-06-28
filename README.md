@@ -1,19 +1,21 @@
 # JustINF - Tutoriale
 
-# Scrapyard
+# Scrapyard Rewards
 
-    QBCore Framework
-    Copyright (C) 2021 Joshua Eger
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>
+    chop-door -> metalscrap
+    chop-trunk -> aluminum
+    chop-hood -> metalscrap
+    chop-tyre -> rubber
+    chop-brakes -> metalscrap
+    chop-bumper -> plastic
+    chop-engine -> steel
+    chop-exhaust -> copper
+    chop-headlight -> plastic
+    chop-mirror -> glass
+    chop-rim -> steel
+    chop-seat -> plastic
+    chop-suspension -> iron
+    chop-transmission -> iron
+    chop-turbo -> steel
+    chop-internals -> copper
+    chop-nos -> iron </>
